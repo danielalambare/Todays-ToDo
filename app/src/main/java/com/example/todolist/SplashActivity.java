@@ -23,5 +23,6 @@ public class SplashActivity extends AppCompatActivity {
             }
             // After x seconds start main activity
         }, 1000);
+
     }
 }
